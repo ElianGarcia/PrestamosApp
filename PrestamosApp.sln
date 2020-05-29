@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrestamosApp", "PrestamosApp.csproj", "{B0F6E847-20F7-43CC-B2CD-91C24DC2FCA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrestamosAppTests", "..\PrestamosAppTests\PrestamosAppTests.csproj", "{D4CC1C7E-A931-459B-B24A-E2F6C228558D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F6E847-20F7-43CC-B2CD-91C24DC2FCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F6E847-20F7-43CC-B2CD-91C24DC2FCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F6E847-20F7-43CC-B2CD-91C24DC2FCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F6E847-20F7-43CC-B2CD-91C24DC2FCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CC1C7E-A931-459B-B24A-E2F6C228558D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CC1C7E-A931-459B-B24A-E2F6C228558D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CC1C7E-A931-459B-B24A-E2F6C228558D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CC1C7E-A931-459B-B24A-E2F6C228558D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82188F1B-F9C8-468B-8594-2E2CF6FD4470}
+	EndGlobalSection
+EndGlobal
